@@ -1,5 +1,9 @@
 # Globally Unique ID Generator
 
+[![license](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://raw.githubusercontent.com/0xShamil/java-xid/master/LICENSE) [![Build Status](https://travis-ci.org/0xShamil/java-xid.svg?branch=master)](https://travis-ci.org/0xShamil/java-xid) [![codecov](https://codecov.io/gh/0xShamil/java-xid/branch/master/graph/badge.svg)](https://codecov.io/gh/0xShamil/java-xid)
+
+
+
 ###### This project is a Java implementation of the Go Lang library found here: [https://github.com/rs/xid](https://github.com/rs/xid)
 
 ---
