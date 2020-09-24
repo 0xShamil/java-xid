@@ -59,6 +59,26 @@ sortable property of the id.
 [Snowflake]: https://blog.twitter.com/2010/announcing-snowflake
 [MongoID]: https://docs.mongodb.org/manual/reference/object-id/
 
+## Installation
+
+### Gradle
+
+```gradle
+dependencies {
+    implementation 'com.github.0xshamil:java-xid:1.0.0'
+}
+```
+
+### Maven
+
+```xml
+<dependency>
+  <groupId>com.github.0xshamil</groupId>
+  <artifactId>java-xid</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+
 ## Usage
 Get `Xid` instance
 ```java
